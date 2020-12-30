@@ -20,9 +20,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project was a part of a 48 hour Game Jam, where we were challenged to build a game with a villian. Our team chose to build an indie game based in an office setting, where an employee, Arnold, has gone haywire. He has decided to hurt all his coworkers and management. However, Arnold will lose health if he touches any management members in a black suit.
+The project was a part of a 48 hour Game Jam, where we were challenged to build a game with an "evil theme". Our team chose to build an indie game based in an office setting, where an employee, Arnold, has gone haywire. He has decided to hurt all his coworkers and management. However, Arnold will lose health if he touches any management members in a black suit. The main goal is to get the highest score possible.
 
-The graphics and game was developed in collaboration with other team members.
+The game and the graphics were developed in collaboration with other team members.
 
 ### Built With
 
