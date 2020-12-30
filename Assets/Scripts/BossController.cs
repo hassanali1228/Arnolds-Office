@@ -75,32 +75,6 @@ public class BossController : MonoBehaviour {
 			Flip ();
 			return;
 		}
-
-//		if(hasSensed)
-//			sensed = Physics2D.OverlapCircle(m_transform.position, 13f, playerLayer);
-//		else
-//			sensed = Physics2D.OverlapCircle(m_transform.position, 8f, playerLayer);
-//
-//		if (sensed) {
-//
-//			float x = m_gameManager.m_playerTransform.position.x;
-//
-//			if (x > m_transform.position.x) {
-//				direction = 1f;
-//
-//			}
-//			else if (x < m_transform.position.x) {
-//				direction = -1f;
-//
-//			}
-//
-//			speed = runSpeed;
-//
-//			hasSensed = true;
-//
-
-
-//		} else if (!sensed) {
 			if(true) {
 
 			if (countDown <= 0.0f) {
