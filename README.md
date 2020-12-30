@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://lh3.googleusercontent.com/pw/ACtC-3cPAt-kBdcieizl5dlI-quZMzlnPY5h4ByseG7s8JGWyiwr_P0S3k467F7ZWUZ7NhKYHU5ZYjukwB--A7jc0OiGZX5n8EFpHxoClKrUhBah1YxX55VzbVzxM3lpGuwVGjQye6WH5m0zi7H_3CA8USkrKw=s300-no">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a ![LOGO](logo.png)>
+       <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Arnold's Office</h3>
@@ -26,9 +26,7 @@ The graphics and game was developed in collaboration with other team members.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Unity](https://unity.com/)
-
 
 
 <!-- GETTING STARTED -->
