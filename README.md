@@ -11,7 +11,7 @@
     A unity game made in 48 hours using Unity and C#.
     <br />
     <br />
-    <a href="https://hassanali1228.github.io/Arnolds-Office-GameJam/">View Demo </a>
+    <a href="https://hassanali1228.github.io/Arnolds-Office/">View Demo </a>
     |
     <a href="https://github.com/hassanali1228/Arnolds-Office/issues/new/choose"> Report Bugs</a>
   </p>
