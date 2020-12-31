@@ -13,7 +13,7 @@
     <br />
     <a href="https://hassanali1228.github.io/Arnolds-Office-GameJam/">View Demo </a>
     |
-    <a href="https://github.com/hassanali1228/Arnolds-Office-GameJam/issues/new/choose"> Report Bugs</a>
+    <a href="https://github.com/hassanali1228/Arnolds-Office/issues/new/choose"> Report Bugs</a>
   </p>
 </p>
 
